@@ -1,0 +1,13 @@
+Package: makefile.demo
+Type: Package
+Title: Makefile by Yihui
+Version: 0.1.0
+Authors@R: person("Alfonso R.", "Reyes", role = c("aut", "cre"), email = "alfonso.reyes@oilgainsanalytics.com")
+Description: Show how to use Makefile
+Depends: R (>= 3.3.0)    
+License: GPL-2
+Encoding: UTF-8
+Imports: 
+LazyData: true
+Suggests: 
+VignetteBuilder: knitr

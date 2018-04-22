@@ -1,0 +1,29 @@
+---
+title: "simple"
+output: html_notebook
+---
+
+Examples from: https://monashbioinformaticsplatform.github.io/2017-11-16-open-science-training/topics/automation.html
+
+This is a simple notebook to experiment with `Makefile`.
+
+We start by creating a `Makefile` that will only render this notebook.
+
+The `Makefilew looks like this:
+
+```
+# we start by processing only one file
+simple.html : simple.Rmd
+	Rscript -e 'rmarkdown::render("simple.Rmd")'
+```
+
+
+```{r}
+plot(cars)
+```
+
+The plot will generated inside the `html` file, meaning it will be self-contained.
+
+
+
+
