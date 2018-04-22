@@ -8,6 +8,6 @@ all : $(HTML)
 clean : 
 	rm -f *.nb.html
 
-# build the files that were given
+# build the files that were given in "all"
 %.html : %.Rmd
 	Rscript -e 'rmarkdown::render("$<")'

@@ -3,7 +3,7 @@
 
 # list the the output files
 all : generic.html iris.html
-	echo All files are now up to date
+	@echo All files are now up to date
 
 # build the files that were given
 %.html : %.Rmd

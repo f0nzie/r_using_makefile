@@ -5,6 +5,6 @@ PKGSRC  := $(shell basename `pwd`)
 
 
 all:
-	echo $(PKGNAME)
-	echo $(PKGVERS)
-	echo $(PKGSRC)
+	@echo $(PKGNAME)
+	@echo $(PKGVERS)
+	@echo $(PKGSRC)

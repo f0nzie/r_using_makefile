@@ -1,7 +1,7 @@
 # name of the paper, without extension
 TEXFILE = paper
 
-# make PDF
+# make PDF for tex file
 $(TEXFILE).pdf: $(TEXFILE).tex
 	latexmk -pdf -quiet $(TEXFILE)
 	
