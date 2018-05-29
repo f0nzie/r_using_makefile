@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1524318852 "paper.tex" "paper.pdf" "paper" 1524318853
+["pdflatex"] 1527393131 "paper.tex" "paper.pdf" "paper" 1527393133
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136765053 960 379cc0019370a9e0208a0a3f949f847a ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136765053 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -137,14 +137,14 @@
   "C:/Users/msfz751/AppData/Roaming/MiKTeX/2.9/tex/latex/titlesec/ttlkeys.def" 1458573264 3476 5840a38d3fbbea105c892be7110502b8 ""
   "C:/Users/msfz751/AppData/Roaming/MiKTeX/2.9/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/msfz751/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty" 1463135581 57049 74963e80d77be39a0b7442967b27c75b ""
-  "paper.aux" 1524318853 3894 be618ff9e020618898e257e4fd0614ba ""
-  "paper.out" 1524318853 1940 396443f5a307d4d4d1c4961fcd4a6104 ""
+  "paper.aux" 1527393132 3894 be618ff9e020618898e257e4fd0614ba ""
+  "paper.out" 1527393132 1940 396443f5a307d4d4d1c4961fcd4a6104 ""
   "paper.tex" 1524318793 7843 923f875d3d64816b55679265f99ba7de ""
   "paper_files/figure-latex/results-1.pdf" 1524318793 4849 858ee26e3ffb94ab88c8c13add5ba779 ""
   "view.jpg" 1524318027 581491 c1cf6d6fdce75d58ad1b8947a8f87391 ""
   "wlpeerj.cls" 1524318027 6199 5af6d1f9cc75f2e8d55329402fd41676 ""
   (generated)
-  "paper.aux"
-  "paper.log"
   "paper.out"
   "paper.pdf"
+  "paper.aux"
+  "paper.log"
